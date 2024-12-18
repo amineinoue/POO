@@ -1,0 +1,2 @@
+Client{codeClient='C001', nomClient='Client 1', adrClient='Adresse 1', telClient='0600000001', listeCommandes=[Commande{numCommande=1, dateCommande=Wed Dec 18 19:21:57 CET 2024, nomFournisseur='Fournisseur A'}, Commande{numCommande=2, dateCommande=Wed Dec 18 19:21:57 CET 2024, nomFournisseur='Fournisseur B'}]}
+Client{codeClient='C002', nomClient='Client 2', adrClient='Adresse 2', telClient='0600000002', listeCommandes=[Commande{numCommande=3, dateCommande=Wed Dec 18 19:21:57 CET 2024, nomFournisseur='Fournisseur C'}]}, codeFidelite='FIDEL001', tauxReduction=0.1
